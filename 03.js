@@ -5,7 +5,7 @@
 // 1value (invalid)
 // value1 (valid)
 
-var value1 = 2;
+var value1 = 2;b
 console.log(value1);
 
 // you can use only undersore _ or dollar symbol 
