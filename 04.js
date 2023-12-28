@@ -7,3 +7,4 @@ console.log(firstName);
 
 
 // block scope vs funtion scope (covered later in this video)
+nn
