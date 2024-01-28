@@ -3,7 +3,7 @@
 // toLowerCase()
 // slice()
 
-let firstName = "harshit";
+let firstName =  "harshit";
 
 // console.log(firstName.length);
 // firstName = firstName.trim(); // "harshit"
