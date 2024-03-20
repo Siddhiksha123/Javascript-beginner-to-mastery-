@@ -14,7 +14,7 @@ let firstName =  "harshit";
 // console.log(firstName);
 
 // start index 
-// end index
+// end index 
 
 let newString = firstName.slice(1); // hars
 console.log(newString);
